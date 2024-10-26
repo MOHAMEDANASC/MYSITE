@@ -1,0 +1,470 @@
+.logo{
+    height: 20px;
+    width: 20px;
+}
+.list{
+    display: flex;
+    margin-left: 10%;
+    list-style: none;
+    margin-top: -.75cm;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+
+}
+.coffee{
+    text-underline-offset: none;
+}
+ul{
+    list-style-type: none;
+    overflow: hidden;
+    background-color: white;
+    color: black;
+    font-size: 15px;
+    font-style: inherit;
+
+}
+li{
+    float: left;
+    padding: 25px;
+    color:black;
+}
+li.hover{
+    background-color: green;
+}
+.search-input{
+    width: 6cm;
+    height: .5cm;
+    margin-right: 5cm;
+    border-radius: 10px;
+    margin-top: -1.5cm;
+float: right;
+}
+.pic{
+    width: 2cm;
+    height: 1.5cm;
+    margin-left: 2cm;
+
+
+}
+.pic2{
+    width: .5cm;
+    height: .5cm;
+    margin-right: 10.7cm;
+    margin-top: -1.4cm;
+    float: right;
+   
+}
+.pic3{
+    width: 1cm;
+    height: 1cm;
+    margin-left: 10cm;
+    margin-top: -1.7cm;
+    margin-right: 2cm;
+    float: right;
+}
+.name{
+    padding-left: 2.5cm;
+    padding-top: 1cm;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    background-color: #0e382c;
+    color: white;
+    height: 1.5cm;
+    width: 100%;
+}
+.button{
+    margin-left: 29cm;
+    border-radius: 15px;
+    float: left;
+    margin-top: -2cm;
+}
+.basic{
+    font-family: SoDoSans_Regular, Helvetica, sans-serif;
+}
+.pic4{
+    width: 90%;
+    height: auto;
+    margin-left: 70px;
+
+}
+#pic5{
+    object-fit: cover;
+    width: 100%;
+
+}
+.name1{
+    margin-left: 19px;
+    margin-top: 85px;
+
+}
+.product{
+    width: 100%;
+    margin-top: 10px;
+    display: flex;
+    justify-content: space-between;
+    margin-left: 19px;
+
+}
+.product  img{
+    height: 100px;
+    width: 100px;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+    
+}
+.productname{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 90px;
+}
+.productdeatils{
+    background-color: #edebe9;
+    width: 100%;
+    height: 8cm;
+    margin-top: 85px;
+
+}
+.heading1{
+    margin-left: 80px;
+    font-family: SoDoSans_Bold, Helvetica, sans-serif !important;
+    color: #1e3932;
+    padding-top: 38px;
+}
+.heading2{
+    margin-left: 1080px;
+    margin-top: -1cm;
+    color: #00754a;
+    font-size: .8rem;
+    cursor: pointer;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.picture1{
+    background-color: white;
+    width: 80px;
+    height: 80px;box-shadow: #1e3932;
+    border-radius: 8px;
+    object-fit: cover;
+}
+.cappuccino{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 29px;
+    margin-top: 21px;
+}
+.cover{
+    margin-top: -1cm;
+    margin-left: 35px;
+    display: flex;
+}
+
+.chocolate{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 29px;
+    margin-top: 21px;
+}
+.vanilla{
+    width: 80px;
+    height: 80px;
+    border-radius: 10px;
+    margin-left: 29px;
+    margin-top: 21px;
+}
+.box1{
+    margin: 20px;
+    width: 400px;
+    height: 180px;
+    background-color: white;
+    border-radius: 10px;
+}
+.box2{
+    margin: 20px;
+    width: 400px;
+    height: 180px;
+    background-color: white; 
+    border-radius: 10px;
+}
+.box3{
+    margin: 20px;
+    width: 400px;
+    height: 180px;
+    background-color: white;
+    border-radius: 10px;
+}
+.icon1{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-top: 18px;
+    margin-right: 220px;
+}
+.icon2{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-top: 18px;
+    margin-right: 220px;
+}
+.icon3{
+    width: 30px;
+    height: 30px;
+    float: right;
+    margin-top: 18px;
+    margin-right: 220px;
+}
+.titles{
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif !important;
+    color: #000;
+    margin: 0 0 8px;
+    font-size: 16px;
+    margin-bottom: 0 !important;
+    margin-left: 117px;
+    margin-top: -1.8cm;
+}
+.subtitle{
+    margin-left: 119px;
+    color: #00000061;
+    font-size: 9px;
+    
+}
+.price{
+    color: #000;
+    font-size: 14px;
+    font-weight: 600;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    margin-left: 30px;
+    margin-top: 50px;
+}
+.buttons{
+    margin-left: 230px;
+float: left;
+margin-top: -1cm;
+    background-color: #00754a;
+    color: white;
+    height: .75cm;
+    width: 2.5cm;
+    border-radius: 15px;
+    
+}
+.productpicture{
+    background-color: #edebe9;
+    width: 100%;
+    height: 14cm;
+    margin-top: 85px;
+}
+.productpicture3{
+   height: 400px;
+   width: 1100px;
+   margin-left: 80px;
+   border-radius: 15px;
+}
+.productpicture1{
+    margin-left: 80px;
+    font-family: SoDoSans_Bold, Helvetica, sans-serif !important;
+    color: #1e3932;
+    font-size: 1.5em;
+    padding-top: 20px;
+    
+}
+.productpicture2{
+    color: #00754a;
+    font-size: .8rem;
+    cursor: pointer;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    margin-left: 1100px;
+    margin-top: -.5cm;
+}
+.productpicture4{
+    color: #096;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    font-size: 9px;
+    background: #e6edeb;
+    border-radius: 4px;
+    padding: 2px 4px;
+    letter-spacing: .06em;
+    width: auto;
+    margin-left: 100px;
+    margin-top: -10cm;
+}
+.productpicture5{
+    background-color: #036448;
+    width: 20px;
+    height: 80px;
+}
+.productpicture6{
+    font-size: 28px;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    color: #fff;
+    margin-bottom: .5em !important;
+    margin: 0 0 8px;
+    font-size: 29px;
+    color: white;
+    margin-bottom: 0 !important;
+    margin-left: 110px;
+    margin-top: 190px;
+    
+}
+.productpicture7{
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    font-size: 14px;
+    margin-left: 110px;
+}
+.productpicture8{
+    height: 1cm;
+    width: 5.5cm;
+    border-radius: 20px;
+    margin-left: 110px;
+    margin-top: 25px;
+    font-size: 12px;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.features{
+    padding: 8em 2em 2em;
+    background-color: #0e382c;
+    color: #bbb;
+    line-height: 1.5;
+    width: 100%;
+    height: 18cm;
+}
+.features1{
+    width: 75px;
+    height: 75px;
+    margin-left: 50px;
+    margin-top: -.5cm;
+}
+.aboutus1{
+    font-size: 1.25em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    cursor: pointer;
+
+}
+.aboutus2{
+    font-weight: 400;
+    font-size: .875em;
+    text-decoration: none;
+    color: #fff;
+    transition: .3s;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.aboutus{
+    margin-left: 225px;
+    margin-top: -2.6cm;
+}
+.Responsibility1{
+    font-size: 1.25em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.Responsibility2{
+    font-weight: 400;
+    font-size: .875em;
+    text-decoration: none;
+    color: #fff;
+    transition: .3s;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.Responsibility{
+    margin-left: 400px;
+    margin-top: -4.3cm;
+}
+.Quick-Links1{
+    font-size: 1.25em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    cursor: pointer;
+}
+.Quick-Links2{
+    font-weight: 400;
+    font-size: .875em;
+    text-decoration: none;
+    color: #fff;
+    transition: .3s;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.Quick-Links{
+    margin-left: 630px;
+    margin-top: -6.6cm;
+}
+.social-media1{
+    font-size: 1.25em;
+    color: #fff;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+    cursor: pointer;
+
+}
+.fa-brands fa-instagram{
+    width: 50px;
+    height: 50px;
+}
+i{
+    width: 50px;
+    height: 50px;
+    font-size: 200%;
+}
+.social-media{
+    margin-left: 830px;
+    margin-top: -12.45cm;
+}
+.apps1{
+    width: 4cm;
+    height: 1cm;
+    border-radius: 10px;
+}
+.apps{
+    margin-left: 1000px;
+    margin-top: -2.5cm;
+}
+.apps2{
+    margin-top: -.01cm;
+    margin-left: 10px;
+}
+.apps3{
+    margin-top: -.5cm;
+    margin-right: 10px;
+}
+.apps4{
+    width: 20px;
+    height: 20px;
+    margin-left: -3.8cm;
+}
+.apps5{
+    width: 4cm;
+    height: 1cm;
+    border-radius: 10px;
+    margin-top: 105px;
+}
+.apps6{
+    margin-top: -.01cm;
+    margin-left: 10px;
+}
+.apps7{
+    margin-top: -.5cm;
+    margin-right: 10px;
+}
+.apps8{
+    width: 20px;
+    height: 20px;
+    margin-left: -3.8cm;
+}
+.line{
+    margin-top: 500px;
+}
+.property{
+    display: flex;
+    gap: 1.5cm;
+    justify-items: center;
+    
+}
+.property1{
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}
+.property2{
+    margin-left: 408px;
+    font-family: SoDoSans_Semibold, Helvetica, sans-serif;
+}body{
+    overflow-x: hidden;
+}
